@@ -31,7 +31,8 @@ It is **not intended for reuse in coursework**.
 ├── turtle.c # Base interpreter
 ├── turtle-pro.c # Extended version with loops
 ├── imgUtils.c/h # Simple image utility functions (not included here)
-├── Makefile # Build script (optional)
+├── box.txt # sample input for turtle.c
+├── box-pro.txt # sample input for turtle-pro.c
 └── README.md # Project documentation
 
 > Note: `imgUtils.c/h` were part of the original starter code.  
